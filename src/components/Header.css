@@ -1,0 +1,17 @@
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  flex-direction: column;
+  background-color: #ce2829;
+  font-family: "Quattrocento", serif;
+  text-align: center;
+
+  color: white;
+  height: 10rem;
+}
+
+.logo {
+  margin-bottom: 1rem;
+}

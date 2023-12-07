@@ -1,0 +1,10 @@
+#counter {
+  display: flex;
+  max-height: 3rem;
+}
+
+.counter-number {
+  border: 1px solid rgba(0, 0, 0, 0.226);
+  padding: 15px;
+  margin-bottom: 0;
+}
